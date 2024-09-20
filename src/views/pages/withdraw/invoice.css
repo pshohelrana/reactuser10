@@ -1,0 +1,21 @@
+.invoice {
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    position: relative;
+  }
+
+  .invoice-title {
+    margin-top: 0;
+  }
+
+  .invoice {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+  .invoice-col {
+    float: left;
+    width: 33.3333333%;
+  }
+  
